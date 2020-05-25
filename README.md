@@ -1,2 +1,8 @@
 # Pupil-Dilation-Detector-and-Calculator
-Program captures the pupils from the recorded video and measures the pupils over diameter and plots the results for each eye. Pupil Dilation Detector and Calculator is developed using Python.
+Project requires Python 3.7, opencv, math libraries and numpy.
+
+Summary Of The Project: Project aims to detect pupil dilation and pupil changes which happens as a reflex to the light.
+
+Project measures pupil region and reflects it as a graph. The video must be recorded as in the example video can4.mp4.
+Eyelocal file can be used to determine threshold value by the programmer after images folder is created by dilate.py.
+
